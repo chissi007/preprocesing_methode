@@ -1,8 +1,9 @@
 # preprocesing_methode
 Les méthodes de prétraitement pour les données textuelle
+
 Cet article présente les méthodes de preétraitements pour les données textuelles. 
 
-Abstract 
+## Abstract 
 
 Aujourd'hui l'exploitation de données est une t^ache qui preoccupe presque
 tous les domaines. La qualite de l'information a explorer depend d'une premiere
@@ -19,3 +20,6 @@ donnees textuelles.
 
 Mots-cles : pre-traitement, stop words, lemmatisation, stemming, TF-IDF,
 tokenisation
+
+## Code 
+Les codes utilisés se trouve sur le dossier *Code_Corpus*
